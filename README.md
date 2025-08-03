@@ -4,7 +4,7 @@ Welcome to my personal portfolio website!
 This project showcases my background, skills, interests, and the projects I’ve worked on.
 
 🔗 **Live demo:**  
-[https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
+[https://hackathon-one-2gcj.vercel.app/](https://hackathon-one-2gcj.vercel.app/)
 
 ---
 
