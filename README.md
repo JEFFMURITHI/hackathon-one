@@ -31,4 +31,4 @@ This project showcases my background, skills, interests, and the projects I’ve
 To run this project locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/my-portfolio.git
+   https://github.com/JEFFMURITHI/hackathon-one.git
